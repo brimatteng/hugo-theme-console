@@ -1,6 +1,6 @@
 # Hugo Theme: Console
 
-A minimal, responsive and light theme for Hugo inspired by Linux console. 
+A minimal, responsive and light theme for Hugo inspired by Linux console.
 
 ![Console](https://github.com/mrmierzejewski/hugo-theme-console/blob/master/images/preview.png?raw=true)
 
@@ -14,9 +14,9 @@ A minimal, responsive and light theme for Hugo inspired by Linux console.
 ```sh
 $ mkdir themes
 $ cd themes
-$ git submodule add https://github.com/mrmierzejewski/hugo-theme-console.git hugo-theme-console
+$ git submodule add https://github.com/brimatteng/hugo-theme-console.git hugo-theme-console
 ```
-    
+
 See the [Hugo documentation](https://gohugo.io/themes/installing/) for more information.
 
 ## Configuration
@@ -37,7 +37,7 @@ makefile hugo-server
 
 ### Start page
 
-The default start page template is located at ```themes/hugo-theme-console/layouts/index.html```. To change the page content, you to need to copy this file to 
+The default start page template is located at ```themes/hugo-theme-console/layouts/index.html```. To change the page content, you to need to copy this file to
 your website top-level ```layouts``` folder (```layouts/index.html```).
 
 ## License
